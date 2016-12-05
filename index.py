@@ -1,10 +1,11 @@
 import sys
 import time
 #print sys.path
+#sys.path.append('../YT/')
 
 from crawler import Crawler
 
-time.strftime('%Y%m%d',time.localtime(time.time()))
+#time.strftime('%Y%m%d',time.localtime(time.time()))
 
 #c = Crawler()
 #user_list = c.get_user_list()
